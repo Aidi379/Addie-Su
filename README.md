@@ -1,2 +1,2 @@
 # Addie-Su
-My personal repository
+My profile repository
